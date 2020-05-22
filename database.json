@@ -1949,6 +1949,12 @@
     "repo": "deno-slash",
     "desc": "Convert Windows backslash paths to slash paths: foo\\\\bar ? foo/bar"
   },
+  "sleep": {
+    "type": "github",
+    "owner": "anderperez15",
+    "repo": "sleep",
+    "desc": "Allows you to put the script execution on hold"
+  },
   "slugify": {
     "type": "github",
     "owner": "jcardama",
